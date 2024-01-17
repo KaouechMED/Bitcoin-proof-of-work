@@ -21,4 +21,3 @@ This project was built by a team from Sup'Com (Higher School of Communication of
 -  Angela Ben Frej
 - Emna Bouguerra
 - Nourhene Azaiez
-"# Bitcoin-proof-of-work" 
